@@ -1,2 +1,3 @@
-# .github
-For the README
+# Welcome to Ascension Labs
+
+we build software in pursuit of better.
