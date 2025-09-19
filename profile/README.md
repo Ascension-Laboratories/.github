@@ -1,3 +1,5 @@
 ## Welcome to Ascension
 
-we build software in the pursuit of better.
+![Logo](../assets/Logo-Wide.png)
+
+We build software in the pursuit of better.
